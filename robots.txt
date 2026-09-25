@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.stwypeo.cn/sitemap.xml
